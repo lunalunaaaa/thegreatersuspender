@@ -1,7 +1,5 @@
 # The Greater Suspender
 
-<img src="/src/img/suspendy-guy.png" width="100px" />
-
 "The Greater Suspender" is a fork of the popular Google Chrome plugin "The Great Suspender", a free and open-source Google Chrome extension for people who find that chrome is consuming too much system resource or suffer from frequent chrome crashing.
 This fork was created to share the last known safe version of The Great Suspender, without anything even remotely malicious included.
 
